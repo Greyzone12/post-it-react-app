@@ -1,0 +1,17 @@
+.important {
+    background-color: red;
+    width: 280px;
+    margin: 10px;
+}
+
+.no-important {
+    background-color: bisque;
+    width: 280px;
+    margin: 10px;
+}
+
+.box{
+    width: 1000;
+    display: flex;
+    flex-wrap: wrap;
+}
